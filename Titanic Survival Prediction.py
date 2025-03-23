@@ -1,7 +1,3 @@
-#Discription: Titanic Dataset using maximum libriaries.
-#Date: 24/07/21
-
-
 # Imports
 import numpy as np
 import pandas as pd
